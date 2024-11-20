@@ -1,0 +1,7 @@
+As dusk settles, photographer Timothy S. Allen shares his view of the ‘End of the Day’ on Flickr.com, capturing a surreal moment that says it all. Somewhere in the world, he’s framed the perfect shot — but where exactly? 
+
+Using only the title and his name, can you track down this photo and uncover its location? 
+The sun won't wait, find the location before night falls!
+
+The flag format will be NULL{cityname_statename}, all lowercase, no spaces. E.g. NULL{kansascity_missouri}
+
