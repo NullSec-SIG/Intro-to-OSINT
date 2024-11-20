@@ -1,0 +1,10 @@
+Mission Brief:
+
+The authorities are on the trail of a notorious hacker, and all they possess is an elusive online username. This username, crucial to tracking down the criminal, begins with the distinctive prefix `NULLSECSIGCTF2024`, but beyond that, it remains a mystery. However, there is a crucial clue that could unveil the hacker’s identity and lead to their location.
+
+The username is followed by a string of characters, anywhere between 0 and 10 in length. What makes this sequence especially significant is a peculiar pattern: each character in this sequence is identical. Not only that, but the hacker has a known affinity for repeating things — a habit that may very well be embedded in this username.
+
+The final key to unlocking this puzzle lies in a subtle detail: the character repeated throughout the string is a vowel.
+
+Your task:
+Find the hacker's location and his cover agency's code. NULLSEC{country_code}
