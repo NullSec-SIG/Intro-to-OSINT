@@ -1,3 +1,5 @@
 Mission Brief:
 
 One of the local top teams in Singapore, run by students play actively in CTFs. They love playing and recently bought a domain to boost their online presence. One of the domain ideas they were thinking were the initials of their aliases. 
+
+They used one of the most common TLDs, for large groups. 
