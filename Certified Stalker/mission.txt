@@ -7,4 +7,5 @@ The username is followed by a string of characters, anywhere between 0 and 10 in
 The final key to unlocking this puzzle lies in a subtle detail: the character repeated throughout the string is a vowel.
 
 Your task:
-Find the hacker's location and his cover agency's code. NULL{country_code}
+Find the hacker's location and his cover agency's code. NULL{country_CODE} 
+NOT country code but "countryUNDERSCOREcover agency's code"
